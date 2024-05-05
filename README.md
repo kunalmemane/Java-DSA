@@ -3,19 +3,16 @@ Learn Data structures and Algorithms in Java.
 
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the VS Code Java world. Here we try to understand, solve & implement DSA concepts in JAVA with proper java concepts implementation.
 
-## Folder Structure
+## Repository Structure
 
-The workspace contains two folders by default, where:
+The workspace contains separate Branches for each Data Structure & Algorithm, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `datastructures`: the folder to maintain all data structures
+- `algorithms`: the folder to maintain all algorithms
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+> If you want to improve code or have any alternate optimized solution, please feel free to raise PR with your modified & improved changes.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Thank You
+> CXK (@codexkunal)
